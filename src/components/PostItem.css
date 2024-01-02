@@ -1,0 +1,27 @@
+.post{
+    width: 60%;
+    display: flex;
+    padding: 15px;
+    margin-top: 15px;
+    border: 2px solid lightseagreen;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.post__content{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.post__btns{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+
+
+
